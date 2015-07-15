@@ -1,0 +1,11 @@
+name: Youtube
+main: com.gmail.justbru00.youtube.episode1.Main
+version: 1.0
+description: A plugin.
+author: Justin Brubaker
+
+commands:
+ hello:
+       description: says hello
+ hello2:
+       description: says hello      
